@@ -19,4 +19,4 @@ int print_reverse(char *s);
 int print_rot13(char *c);
 int print_pointer(void *p);
 
-#endif /* HOLBERTON_H */
+#endif /* MAIN_H */
